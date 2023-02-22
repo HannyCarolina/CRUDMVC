@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+Conexion a la base de datos mit_core mio
+-->
+
+<config>
+    <DB_Provider>jdbc:sqlserver</DB_Provider>
+    <DB_DriverClass>com.microsoft.sqlserver.jdbc.SQLServerDriver</DB_DriverClass>
+    <DB_Server>localhost</DB_Server>
+    <DB_Port>1433</DB_Port>
+    <DB_DataBaseName>mit_core</DB_DataBaseName>
+    <DB_User>mit</DB_User>
+    <DB_Password>mit</DB_Password>    
+</config>
